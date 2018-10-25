@@ -43,6 +43,9 @@ INSTALLED_APPS = [
 
     # Rest framework
     'rest_framework_swagger',
+
+    # 내가 만든 앱
+    'notice_board',
 ]
 
 MIDDLEWARE = [
